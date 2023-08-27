@@ -129,7 +129,7 @@ p{
 /* 2 Navbar Design */
 .navigation-wrap.scroll-on{
     position:fixed;
-    width:50%;
+    width:80%;
     left:0;
     background-color:var(--white-color);
     z-index:1000;
@@ -137,7 +137,7 @@ p{
     transition:all 0.3s ease-in-out;
 }
 .navigation-wrap .navbar-brand img{
-    width: 2rem;
+    width: 13rem;
 }
 .navigation-wrap .nav-item{
     padding:0 0.625rem;
