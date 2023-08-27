@@ -137,7 +137,7 @@ p{
     transition:all 0.3s ease-in-out;
 }
 .navigation-wrap .navbar-brand img{
-    width:13rem;
+    width: 10rem;
 }
 .navigation-wrap .nav-item{
     padding:0 0.625rem;
