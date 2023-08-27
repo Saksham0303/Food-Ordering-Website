@@ -129,7 +129,7 @@ p{
 /* 2 Navbar Design */
 .navigation-wrap.scroll-on{
     position:fixed;
-    width:80%;
+    width:100%;
     left:0;
     background-color:var(--white-color);
     z-index:1000;
